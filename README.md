@@ -53,6 +53,8 @@ Para executar as aplicações seguir os procedimentos abaixo:
 cd dashgo
 ```
 
+==> Obs: Para acessar o dashboard basta inserir "/dashboard" no final da url. O login não tem validação.
+
 - Instalar as dependências da aplicação WEB
 
 ```bash
